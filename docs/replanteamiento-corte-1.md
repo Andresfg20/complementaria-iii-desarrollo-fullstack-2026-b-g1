@@ -1,3 +1,7 @@
+---
+title: "Replanteamiento y recomendaciones — Corte 1"
+---
+
 # Replanteamiento y recomendaciones — Documentación de proyecto
 
 **Complementaria III · Profundización Desarrollo Fullstack · 2026-B**
